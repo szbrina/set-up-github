@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  set-up-github
+//  set-up-github for KWK
 //
 //  Created by Sabrina on 8/17/22.
 //
